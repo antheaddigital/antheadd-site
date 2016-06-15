@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "bootstrap-less": "~3.3.4",
-    "slick-carousel": "~1.6.0"
+    "slick-carousel": "~1.6.0",
+    "fullpage.js": "~2.8.1"
   }
 }
